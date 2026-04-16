@@ -10,7 +10,7 @@ This project focuses on testability, accessibility, responsiveness, and real-wor
 
 ## GitHub Repository
 
-👉 [Add your GitHub repo link here]
+👉 [https://github.com/Owaboye/todo-card-component-stage-zero.git]
 
 ## Features
 - Fully testable with required data-testid attributes
