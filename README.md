@@ -6,7 +6,7 @@ This project focuses on testability, accessibility, responsiveness, and real-wor
 
 ## Live Demo:
 
-- []() 
+- 👉 [Demo](https://deluxe-puffpuff-278ef0.netlify.app/) 
 
 ## GitHub Repository
 
